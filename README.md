@@ -1,20 +1,31 @@
+#Title: 
+Readme Generator
 
-#Title: Readme Generator
-
-#Description: Create a readme file following specific criteria
+#Description: 
+Create a readme file following specific criteria
 
 #Contents: 
+*Description
+*Installation
+*License
+*Usage
+*Test
+*Questions
+*Info
 
-*Beginning 
-*Middle 
-*End"
-	
-#Installation: Npm Inquirer
-	
-#License: ![Alt Text](https://img.shields.io/badge/License-SPCE-blue)
+#Installation: 
+Npm Inquirer
 
-#Usage: "Open the CLI (Command Line Interface) and run 'node index.js'",
+#License: 
+![Alt Text](https://img.shields.io/badge/License-SPCE-blue)
 
-#Test: n/a
+#Usage:
+Open the CLI (Command Line Interface) and run 'node index.js'
 
-#Questions: [GitHub](https://github.com/Duhhvonte), \n devonte.letts@gmail.com
+#Test:
+n/a
+
+#Questions: 
+[GitHub](https://github.com/Duhhvonte)
+
+#Info: devonte.letts@gmail.com
