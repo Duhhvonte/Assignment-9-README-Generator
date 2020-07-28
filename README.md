@@ -4,10 +4,10 @@
 Create a readme file following specific criteria
 
 # Contents: 
-* Description
+* [Description](readme.md#Description)
 * Installation
 * License
-* # Usage
+* Usage
 * Test
 * Questions
 * Info
