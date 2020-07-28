@@ -8,7 +8,7 @@ Create a readme file following specific criteria
 * Installation
 * License
 * Usage
-* Test
+* [Test](#Test)
 * Questions
 * Info
 
