@@ -17,4 +17,4 @@
 
 #Test: n/a
 
-#Questions: ![Alt Text](https://github.com/Duhhvonte), ![Alt Text](devonte.letts@gmail.com)
+#Questions: [GitHub](https://github.com/Duhhvonte), devonte.letts@gmail.com
