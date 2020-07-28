@@ -7,7 +7,7 @@
 Create a proper readme file
 
 # Contents: 
-* [Description](description
+* [Description](Description)
 * [Installation](Installation)
 * [License](License)
 * [Usage](Usage)
