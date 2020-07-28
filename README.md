@@ -1,4 +1,4 @@
-{
+
 	"# Title": "ReadMe Generator",
 	"# Description": "Create a proper readme file",
 	"# Contents": "* [Description](description), * [Installation](Installation), * [License](License), * [Usage](Usage), * [Test](Test), * [Questions](Questions), * [Info](Info) ",
@@ -8,4 +8,3 @@
 	"# Test": "n/a",
 	"# Questions": "[github](https:/github.com/Duhhvonte)",
 	"# Info": "devonte.letts@gmail.com"
-}
