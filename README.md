@@ -7,13 +7,13 @@
 Create a proper readme file
 
 # Contents: 
-* [Description](Description)
-* [Installation](Installation)
-* [License](License)
-* [Usage](Usage)
-* [Test](Test)
-* [Questions](Questions)
-* [Info](Info)
+* [Description](#Description)
+* [Installation](#Installation)
+* [License](#License)
+* [Usage](#Usage)
+* [Test](#Test)
+* [Questions](#Questions)
+* [Info](#Info)
 
 # Installation: 
 Npm Inquirer
