@@ -1,5 +1,4 @@
-# Title: 
-Readme Generator
+# Title: Readme Generator
 
 # Description: 
 Create a readme file following specific criteria
